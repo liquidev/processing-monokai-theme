@@ -1,0 +1,17 @@
+editor.token.comment1.style=#75715E,plain
+editor.token.comment2.style=#75715E,plain
+editor.token.function1.style=#66D9EF,plain
+editor.token.function2.style=#66D9EF,plain
+editor.token.function3.style=#F92672,plain
+editor.token.function4.style=#A6E22E,bold
+editor.token.invalid.style=#F92672,bold
+editor.token.keyword1.style=#66D9EF,bold
+editor.token.keyword2.style=#66D9EF,bold
+editor.token.keyword3.style=#66D9EF,bold
+editor.token.keyword4.style=#F92672,plain
+editor.token.keyword5.style=#66D9EF,bold
+editor.token.keyword6.style=#F92672,plain
+editor.token.label.style=#999999,bold
+editor.token.literal1.style=#E6DB74,plain
+editor.token.literal2.style=#AE81FF,plain
+editor.token.operator.style=#F92672,plain
