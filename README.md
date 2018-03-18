@@ -2,6 +2,10 @@
 
 The Sublime Text Monokai theme remade for Processing.
 
+## Screenshot
+
+![Monokai for PDE][https://raw.githubusercontent.com/liquid600pgm/processing-monokai-theme/master/theme/screenshot.png]
+
 ## Installing
 
 1. Go to your Processing installation folder.
