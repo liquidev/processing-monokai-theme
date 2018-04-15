@@ -10,7 +10,7 @@ The Sublime Text Monokai theme remade for Processing.
 
 1. Go to your Processing installation folder.
 2. Put the downloaded `lib` folder there.
-3. Go to your App Data folder (Windows: `C:/Users/YourUser/`) and open the `Processing` folder
+3. Go to your Processing App Data folder (Windows: `C:/Users/YourUser/Processing/`; Linux: `~/.processing/`)
 4. Open the `preferences.txt` file from this folder
 5. Find `editor.token` using your text editor
 6. Replace all of those lines with my provided lines
