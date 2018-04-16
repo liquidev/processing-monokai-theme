@@ -95,7 +95,7 @@ editor.linehighlight.color=#3e3d32
 editor.linehighlight=true
 
 editor.caret.color = #f8f8f0
-editor.selection.color = #ffcc00
+editor.selection.color = #49483E
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #7e7e7e,bold
